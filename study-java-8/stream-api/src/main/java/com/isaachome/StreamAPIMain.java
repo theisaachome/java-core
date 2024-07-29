@@ -4,7 +4,7 @@ package com.isaachome;
  * Hello world!
  *
  */
-public class App 
+public class StreamAPIMain
 {
     public static void main( String[] args )
     {
