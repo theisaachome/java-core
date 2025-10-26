@@ -58,13 +58,13 @@ public class Person{
         this.incomes = incomes;
     }
 
-    public static List<Person> of() {
+    public static List<Person> persons() {
         return  List.of(new Person(1,"Donnie",Gender.FEMALE,LocalDate.of(1962,07,29),7800.00),
-                new Person(2,"Kyaw Kyaw",Gender.MALE,LocalDate.of(1999,10,29),7800.00),
-                new Person(3,"Hannie",Gender.FEMALE,LocalDate.of(2000,8,31),7800.00),
-                new Person(4,"Thida",Gender.FEMALE,LocalDate.of(2001,9,19),7800.00),
-                new Person(5,"Aung Aung",Gender.MALE,LocalDate.of(2005,1,31),0.0),
-                new Person(6,"Myo Myit Aung",Gender.MALE,LocalDate.of(2010,2,28),500.00));
+                new Person(2,"Kyaw Kyaw",Gender.MALE,LocalDate.of(1999,10,29),8000.00),
+                new Person(3,"Hannie",Gender.FEMALE,LocalDate.of(2000,8,31),6000.000),
+                new Person(4,"Thida",Gender.FEMALE,LocalDate.of(2001,9,19),4000.00),
+                new Person(5,"Aung Aung",Gender.MALE,LocalDate.of(2005,1,31),1000.0),
+                new Person(6,"Myo Myit Aung",Gender.MALE,LocalDate.of(2010,2,28),4500.00));
     }
 
     @Override
@@ -80,5 +80,8 @@ public class Person{
 
     public static boolean isFemale(Person person){
         return person.gender == Gender.FEMALE;
+    }
+    public static boolean isMale(Person person){
+        return person.gender == Gender.MALE;
     }
 }

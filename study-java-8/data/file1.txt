@@ -1,0 +1,7 @@
+============= Content of File-1 =============
+
+Prerequisite : PrintWriter, BufferedReader.
+We are given a directory/folder in which n number of files are stored(We dont know the number of files) and
+we want to merge the contents of all the files into a single file lets say output.txt
+For the below example lets say the folder is stored at the path: F:\GeeksForGeeks
+Following are the steps:

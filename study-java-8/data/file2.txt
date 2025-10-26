@@ -1,0 +1,12 @@
+============= Content of File-1 =============
+
+
+Create instance of directory.
+Create a PrintWriter object for “output.txt”.
+Get list of all the files in form of String Array.
+Loop for reading the contents of all the files in the directory GeeksForGeeks.
+Inside the loop for every file do
+Create instance of file from Name of the file stored in string Array.
+Create object of BufferedReader for reading from current file.
+Read from current file.
+Write to the output file.
