@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="java-core-playground" />
+        <module name="java-value-study" />
+        <module name="java-io" />
         <module name="stream-api" />
         <module name="java-FileIO-study" />
         <module name="java-generics-study" />
-        <module name="java-core-playground" />
         <module name="generic" />
-        <module name="java-io" />
       </profile>
     </annotationProcessing>
   </component>

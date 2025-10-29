@@ -11,6 +11,7 @@
     <description>Java Core Study - Maven Parent Project</description>
     <modules>
         <module>playground</module>
+        <module>java-value-study</module>
     </modules>
 
     <properties>
