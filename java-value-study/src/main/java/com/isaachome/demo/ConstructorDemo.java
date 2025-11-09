@@ -6,6 +6,18 @@ class Employee{
         age=20;
         System.out.println("Constructor.....");
     }
+    Employee(String newName){
+        this.name=newName;
+        age = 25;
+    }
+    Employee(String newName, int newAge){
+        this.name=newName;
+        this.age=newAge;
+    }
+    Employee(int newAge,String newName){
+        this.name=newName;
+        this.age=newAge;
+    }
 }
 class BankAccount{
     private String accountNumber;
@@ -42,4 +54,6 @@ void main(){
     System.out.println(bankAccount.getAccountNumber());
     var employee = new Employee();
     System.out.println(employee.age);
+    var newEmployee =new Employee("NewEmployee",20);
+    var newEmployeeII = new Employee(100,"NewEmployee");
 }

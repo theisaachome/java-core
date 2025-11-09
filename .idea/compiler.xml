@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="working-with-inheritance" />
         <module name="java-core-playground" />
         <module name="java-value-study" />
         <module name="java-io" />

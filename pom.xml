@@ -12,6 +12,7 @@
     <modules>
         <module>playground</module>
         <module>java-value-study</module>
+        <module>working-with-inheritance</module>
     </modules>
 
     <properties>
