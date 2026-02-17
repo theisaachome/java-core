@@ -8,8 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="working-with-inheritance" />
         <module name="java-core-playground" />
+        <module name="objects-and-classes" />
         <module name="java-value-study" />
         <module name="java-io" />
+        <module name="playground" />
         <module name="stream-api" />
         <module name="java-FileIO-study" />
         <module name="java-generics-study" />
