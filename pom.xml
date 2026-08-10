@@ -14,6 +14,8 @@
         <module>java-value-study</module>
         <module>working-with-inheritance</module>
         <module>objects-and-classes</module>
+        <module>learn-java-thread</module>
+        <module>learn-string</module>
     </modules>
 
     <properties>

@@ -26,14 +26,14 @@ class Employee{
         System.out.println("Default Plan");
     }
 }
-class Programmer extends Employee implements Trainable{
+class Programmer extends com.isaachome.demo.hierarchies.Employee implements Trainable{
     void writeCode(){}
     @Override
     public void attendTraining() {
         System.out.println("Programmer attend training...");
     }
 }
-class Manager extends Employee implements Trainable ,Interviewer{
+class Manager extends com.isaachome.demo.hierarchies.Employee implements Trainable ,Interviewer{
     @Override
     public void conductInterview() {
         System.out.println("Manager conduct interview...");
