@@ -7,17 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="working-with-inheritance" />
-        <module name="learn-string" />
         <module name="java-core-playground" />
         <module name="objects-and-classes" />
-        <module name="java-value-study" />
-        <module name="java-io" />
-        <module name="playground" />
-        <module name="stream-api" />
+        <module name="004-day" />
         <module name="java-FileIO-study" />
         <module name="java-generics-study" />
         <module name="learn-java-thread" />
         <module name="generic" />
+        <module name="learn-string" />
+        <module name="java-value-study" />
+        <module name="java-io" />
+        <module name="playground" />
+        <module name="stream-api" />
       </profile>
     </annotationProcessing>
   </component>

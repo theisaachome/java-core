@@ -16,6 +16,7 @@
         <module>objects-and-classes</module>
         <module>learn-java-thread</module>
         <module>learn-string</module>
+        <module>004-day</module>
     </modules>
 
     <properties>
