@@ -10,6 +10,7 @@
         <module name="java-core-playground" />
         <module name="objects-and-classes" />
         <module name="004-day" />
+        <module name="006-day" />
         <module name="java-FileIO-study" />
         <module name="java-generics-study" />
         <module name="learn-java-thread" />
