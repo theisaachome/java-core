@@ -17,6 +17,7 @@
         <module>learn-java-thread</module>
         <module>learn-string</module>
         <module>004-day</module>
+        <module>005-day</module>
     </modules>
 
     <properties>
