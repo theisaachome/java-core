@@ -19,6 +19,7 @@
         <module>004-day</module>
         <module>005-day</module>
         <module>006-day</module>
+        <module>007-day</module>
     </modules>
 
     <properties>
