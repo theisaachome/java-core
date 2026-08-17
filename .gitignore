@@ -10,6 +10,8 @@
 .junie
 **/target/
 .idea/
+**/.idea/
+**/.idea/*
 # Icon must end with two \r
 Icon
 
