@@ -20,6 +20,7 @@
         <module>005-day</module>
         <module>006-day</module>
         <module>007-day</module>
+        <module>008-day</module>
     </modules>
 
     <properties>

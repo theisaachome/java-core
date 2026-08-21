@@ -18,8 +18,10 @@
         <module name="005-day" />
         <module name="learn-string" />
         <module name="java-value-study" />
+        <module name="007-day" />
         <module name="java-io" />
         <module name="playground" />
+        <module name="008-day" />
         <module name="stream-api" />
       </profile>
     </annotationProcessing>
