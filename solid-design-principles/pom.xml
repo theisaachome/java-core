@@ -13,6 +13,8 @@
     <modules>
         <module>single-responsibility-principle</module>
         <module>open-closed-principle</module>
+        <module>liskov-substitue-principle</module>
+        <module>interface-segregation-principle</module>
     </modules>
 
 

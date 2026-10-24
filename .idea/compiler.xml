@@ -16,6 +16,8 @@
         <module name="java-generics-study" />
         <module name="learn-java-thread" />
         <module name="generic" />
+        <module name="liskov-substitue-principle" />
+        <module name="interface-segregation-principle" />
         <module name="005-day" />
         <module name="learn-string" />
         <module name="java-value-study" />
