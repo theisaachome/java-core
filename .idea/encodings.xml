@@ -11,6 +11,10 @@
     <file url="file://$PROJECT_DIR$/007-day/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/008-day/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/008-day/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-pattern-study/builder-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-pattern-study/builder-pattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-pattern-study/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-pattern-study/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/generic/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/generic/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-FileIO-study/src/main/java" charset="UTF-8" />
@@ -27,6 +31,8 @@
     <file url="file://$PROJECT_DIR$/objects-and-classes/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/playground/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/playground/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solid-design-principles/dependency-inversion-principle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solid-design-principles/dependency-inversion-principle/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/solid-design-principles/interface-segregation-principle/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/solid-design-principles/interface-segregation-principle/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/solid-design-principles/liskov-substitue-principle/src/main/java" charset="UTF-8" />

@@ -27,6 +27,8 @@
         <module name="008-day" />
         <module name="single-responsibility-principle" />
         <module name="stream-api" />
+        <module name="dependency-inversion-principle" />
+        <module name="builder-pattern" />
       </profile>
     </annotationProcessing>
   </component>

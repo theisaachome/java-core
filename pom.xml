@@ -22,6 +22,7 @@
         <module>007-day</module>
         <module>008-day</module>
         <module>solid-design-principles</module>
+        <module>design-pattern-study</module>
     </modules>
 
     <properties>

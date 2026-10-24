@@ -1,9 +1,8 @@
-package com.isaachome.study.service;
+package com.isaachome.study.shop.service;
 
-import com.isaachome.study.entity.Order;
+import com.isaachome.study.shop.entity.Order;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 public class OrderPersistenceservice implements PersistenceService<Order>{

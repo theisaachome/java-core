@@ -1,8 +1,6 @@
-package com.isaachome.study.service;
+package com.isaachome.study.shop.service;
 
-import com.isaachome.study.entity.Entity;
-
-import java.util.List;
+import com.isaachome.study.shop.entity.Entity;
 
 //common interface to be implemented by all persistence services. 
 public interface PersistenceService<T extends Entity> {

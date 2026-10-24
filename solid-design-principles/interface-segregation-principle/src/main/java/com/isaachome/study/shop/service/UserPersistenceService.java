@@ -1,6 +1,6 @@
-package com.isaachome.study.service;
+package com.isaachome.study.shop.service;
 
-import com.isaachome.study.entity.User;
+import com.isaachome.study.shop.entity.User;
 
 import java.util.HashMap;
 import java.util.List;

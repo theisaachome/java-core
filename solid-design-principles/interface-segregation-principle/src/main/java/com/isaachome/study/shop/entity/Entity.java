@@ -1,4 +1,4 @@
-package com.isaachome.study.entity;
+package com.isaachome.study.shop.entity;
 
 //Base class for all entities
 public abstract class Entity {

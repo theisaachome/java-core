@@ -1,4 +1,4 @@
-package com.isaachome.study.entity;
+package com.isaachome.study.shop.entity;
 import java.time.LocalDateTime;
 
 //Order entity class
