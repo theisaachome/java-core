@@ -21,6 +21,7 @@
         <module>006-day</module>
         <module>007-day</module>
         <module>008-day</module>
+        <module>solid-design-principles</module>
     </modules>
 
     <properties>

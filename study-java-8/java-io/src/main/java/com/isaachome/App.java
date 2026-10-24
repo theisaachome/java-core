@@ -1,5 +1,8 @@
 package com.isaachome;
 
+import java.io.PrintStream;
+import java.text.NumberFormat;
+
 /**
  * Hello world!
  *
@@ -7,17 +10,45 @@ package com.isaachome;
 public class App 
 {
 
-    String name1;
     public static void main( String[] args )
     {
-        var app = new App();
-        if(app.name1.isEmpty() ){
-            System.out.println("name is empty"+app.name1.isEmpty());
-        }else if(app.name1.length()==0){
-            System.out.println("name length is empty"+app.name1.length());
-        }else {
-            System.out.println("We got your name "+app.name1);
-        }
-        System.out.println( "Hello World!" );
+
+
+        Employee emp = new Employee();
+        System.out.println(emp.getId());
+        var harry = new Employee();
+        System.out.println(harry.getId());
+        System.out.println(MyMath.PI);
+
+        NumberFormat  currency = NumberFormat.getCurrencyInstance();
+        System.out.println(currency.format(1000000));
+
+        NumberFormat  percent = NumberFormat.getPercentInstance();
+        System.out.println(percent.format(0.1));
+
+        NumberFormat  us = NumberFormat.getInstance();
+        System.out.println(us.format(1000000));
+
+        NumberFormat  fr = NumberFormat.getInstance();
+        System.out.println(fr.format(1000000));
     }
+}
+
+class Employee{
+    private static Integer nextId=1;
+    private Integer id;
+    Employee(){
+        id=nextId++;
+    }
+
+    public Integer getId() {
+        return id;
+    }
+    public void setId(Integer id) {
+        this.id = id;
+    }
+}
+
+class MyMath{
+    public static final  double PI=3.14;
 }

@@ -6,9 +6,10 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-
+.idea/compiler.xml
+.idea/encodings.xml
 .idea/**
-.junie
+.junie/**
 **/target/
 .idea/
 **/.idea/
