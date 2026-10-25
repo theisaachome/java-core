@@ -28,6 +28,7 @@
         <module name="single-responsibility-principle" />
         <module name="stream-api" />
         <module name="dependency-inversion-principle" />
+        <module name="creational-desing-pattern" />
         <module name="builder-pattern" />
       </profile>
     </annotationProcessing>
