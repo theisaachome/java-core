@@ -9,10 +9,15 @@
 
     <groupId>com.isaachome.study</groupId>
     <artifactId>java-multithreading</artifactId>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <name>java-multithreading</name>
     <url>http://maven.apache.org</url>
+    <modules>
+        <module>thread-fundamentals</module>
+        <module>data-sharing-between-threads</module>
+        <module>thread-coordination</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
