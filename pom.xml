@@ -23,6 +23,7 @@
         <module>008-day</module>
         <module>solid-design-principles</module>
         <module>design-pattern-study</module>
+        <module>java-multithreading</module>
     </modules>
 
     <properties>

@@ -1,0 +1,11 @@
+package com.isaachome.designpattern.abstractfactory.bank;
+
+// Factory Interface
+// Services in the contract for all factories
+interface BankingFactory {
+    PaymentService createPayment();
+
+    AccountService createAccount();
+
+    NotificationService createNotification();
+}
